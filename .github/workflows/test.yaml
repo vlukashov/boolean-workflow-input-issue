@@ -8,8 +8,6 @@ on:
       has_admin_role:
         description: An optional boolean workflow input
         type: boolean
-        required: false
-        default: false
 
 jobs:
   main:
